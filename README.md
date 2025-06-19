@@ -18,7 +18,7 @@ This is a responsive **Netflix Clone** built using **only HTML and CSS**. It rep
 
 ## 🔗 Live Demo
 
-[[Click here to view the live site](https://your-demo-link.com)](https://netflix-by-ahmed.vercel.app/)
+(https://your-demo-link.com)](https://netflix-by-ahmed.vercel.app/)
 
 ## 🛠️ Built With
 
